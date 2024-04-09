@@ -1,0 +1,28 @@
+.bgg{
+    background-color: aliceblue;
+}
+.gg{
+    background-color:darkgray;
+}
+.hide{
+    display: none;
+}
+.trash 
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.line_through{
+    text-decoration: line-through;
+    
+}
+.task{
+    cursor: pointer;
+    
+}
